@@ -3,7 +3,6 @@ import requests
 import argparse
 import os
 import random
-import pdb
 
 LOCATION = 'Salzufer 6, Berlin'
 URL = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
